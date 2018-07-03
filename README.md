@@ -10,10 +10,10 @@ To practice making components, we've provided all the markup and styling for a s
 * Run your React version by typing `yarn start` and navigating to `localhost:3000`
 * Check to make sure that your React version looks the same as the original
 
-### Basic Requirements
+### Basic Requirements &#10004;
 * Split the page into at least 6 total components
 
-### Bonus Credit
+### Bonus Credit &#10004;
 * Split the page into at least 10 total components, including components *in* components
 
 ### Super Bonus Credit
