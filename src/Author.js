@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Article = () =>{
+const Author = () =>{
 	return (
 		<div className="author-info">
 			<p className="author-name">By Domri, son of Flug</p>
@@ -9,4 +9,4 @@ const Article = () =>{
 	)
 }
 
-export default Article
+export default Author
